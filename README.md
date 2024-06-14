@@ -10,6 +10,6 @@ This project minimizes the number of transactions among multiple banks by determ
 
 ## Usage
 
-Go to the `cash_flow_minimizer.py` File and follow the on-screen instructions.
+Go to the `cash_flow_minimization.py` File and follow the on-screen instructions while running the code
 
 
